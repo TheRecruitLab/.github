@@ -1,7 +1,7 @@
 ---
 name: "✨ Feature request"
 about: If you have an idea to improve an existing project, please let us know.
-
+labels: enhancement
 ---
   
 **User Story**
